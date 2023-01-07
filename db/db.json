@@ -1,0 +1,59 @@
+{
+    "Drone01": [
+	{
+		"id": 1,
+    "name": "DJI Mini 3",
+    "features": [
+      "Under 249 g",
+      "4K HDR Video",
+      "38kph (level 5) wind resistance",
+      "10km max transmission range"
+    ],
+    "in_stock": true,
+    "images": [
+      "pic1.jpeg",
+      "pic2.jpeg",
+      "pic3.jpeg"
+    ]
+	}
+    ],
+    "Drone02": [
+	{
+		"id": 2,
+    "name": "DJI Phantom",
+    "features": [
+      "4K HDR Video",
+      "Mechanical Shutter",
+      "Obstacle sensing in five directions",
+      "10km max transmission range"
+    ],
+    "in_stock": false,
+    "images": [
+      "pic7.jpeg",
+      "pic8.jpeg",
+      "pic9.jpeg"
+    ]
+	}
+    ],
+    "Drone03": [
+	{
+		"id": 3,
+    "name": "DJI Avata",
+    "features": [
+      "Immersive Flight Experience",
+      "Powerful Video Stabilization",
+      "Enhanced Safety with Built-in Propeller Guard",
+      "Two 1080p Micro-OLED screens"
+    ],
+    "in_stock": true,
+    "images": [
+      "pic13.jpeg",
+      "pic14.jpeg",
+      "pic15.jpeg"
+    ]
+	}
+    ],
+    "Pedidos": [],
+    "emails": []
+    
+}

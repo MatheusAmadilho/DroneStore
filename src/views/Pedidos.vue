@@ -1,18 +1,19 @@
 <template>
   <div>
-    <Drones />
     <div class="main-container">
+      <h1>Gerenciar pedidos:</h1>
+      <Dashboard />
     </div>
   </div>
 </template>
 
 <script>
-import Drones from '@/components/Drones.vue';
+import Dashboard from '../components/Dashboard'
 
 export default {
-  name: 'Home',
+  name: 'Pedidos',
   components: {
-    Drones
-}
+    Dashboard
+  }
 }
 </script>
