@@ -2,8 +2,8 @@
     <div>
       <div id="nav">
         <button class="button"><router-link to="/mini">DJI Mini 3</router-link></button>
-        <button class="button"><router-link to="/Products02">DJI Phantom</router-link></button>
-        <button class="button"><router-link to="/Products03">DJI Avata</router-link></button>
+        <button class="button"><router-link to="/phantom">DJI Phantom</router-link></button>
+        <button class="button"><router-link to="/avata">DJI Avata</router-link></button>
       </div>
     </div>
     <div class="product-image">
